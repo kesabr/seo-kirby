@@ -20,7 +20,7 @@ composer require johannschopplich/kirby-serp-preview
 Clone into your project’s plugins folder:
 
 ```bash
-git clone https://github.com/kesabr/kb-seo-kirby.git site/plugins/kb-seo-kirby
+git clone https://github.com/kesabr/seo-kirby.git site/plugins/kb-seo-kirby
 ```
 
 (or copy the folder manually to `site/plugins/kb-seo-kirby`)
